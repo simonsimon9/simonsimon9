@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">A passionate developer from Detroit, Michigan</h3>
+<h1>Hi 👋, I'm Simon</h1>
+<h3>A passionate developer from Detroit, Michigan</h3>
 
 **I ate hamburgers everyday for 2 months.**
 
